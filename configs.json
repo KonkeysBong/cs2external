@@ -1,0 +1,85 @@
+{
+    "Aimbot": {
+        "bools": {
+            "aimbot": true,
+            "aimbothotkey": true,
+            "aimbotvisibilitycheck": false,
+            "dynamikfov": true,
+            "dynamikfovlow": true,
+            "dynamikfovmoving": true,
+            "dynamiksmothness": true,
+            "dynamiksmothnesslow": true,
+            "dynamiksmothnessmoving": true,
+            "fovcircle": true,
+            "singlebodypart" : false
+        },
+        "float": {
+            "circlethikness": 1.0789999961853027,
+            "cirklecolour": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "dynamikfovlowhealth": 22.351999282836914,
+            "dynamikfovscale": 1.3660000562667847,
+            "dynamiksmoothnessscale": -0.6790000200271606,
+            "dynamiksmothnesslowhealth": 25.910999298095703,
+            "fov": 20.801000595092773,
+            "smooth": 0.6850000023841858
+        },
+        "int": {
+            "boneSelect": 0,
+            "hotSelectAim": 0
+        }
+    },
+    "ESP": {
+        "bools": {
+            "bones": true,
+            "boxes": true,
+            "c4esp": true,
+            "espvisibilitycheck": true,
+            "healthbar": true
+        },
+        "floats": {
+            "Bonecolour": [
+                1.0,
+                0.0,
+                1.0
+            ],
+            "notspottedColours": [
+                0.003921568859368563,
+                0.0,
+                0.0
+            ],
+            "spottedColours": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        }
+    },
+    "Hitmarker": {
+        "bools": {
+            "damageskale": true,
+            "hitmarkeractive": true
+        },
+        "float": {
+            "hitmarkerlength": 8.192000389099121,
+            "hitmarkerthikness": 1.5,
+            "markercolour": [
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    "Triggerbot": {
+        "bools": {
+            "triggerbot": true,
+            "triggerbotkey": true
+        },
+        "int": {
+            "hotSelecttrig": 0
+        }
+    }
+}
